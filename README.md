@@ -15,6 +15,7 @@ Given an array of daily rain probabilities `p` (length 365), compute the probabi
 Given a sequence of phonemes, find all possible combinations of dictionary words that can produce this exact phoneme sequence.
 
 - Uses backtracking.
+- Uses memoization for faster computations.
 
 ---
 
